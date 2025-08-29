@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* small tweaks */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.text-outline {
+  -webkit-text-stroke: 1.5px black;
+}
